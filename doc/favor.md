@@ -2,7 +2,7 @@
 ---
   좋아요와 좋아요 취소
 * **URL**
-  * /list
+  * /favor
 * **Method**
   * `POST`
 * **URL Params**
