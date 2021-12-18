@@ -1,10 +1,10 @@
 package main
 
 import (
-	"SeeMeetCan/handler"
 	"database/sql"
 	"net/http"
 
+	"github.com/cwooder/handler"
 	_ "github.com/go-sql-driver/mysql"
 )
 
