@@ -14,7 +14,7 @@
   * **Content:** `{ Id: (int), StudentID: (string), Name: (string), Gender: (bool), Age: (int), Height: (int), MBTI: (string), FavoriteId ([]int) }`
 * **Error Response**
   * **Code:** 400<br />
-  * **Content:** `-`
-  <br /> Or
+  * **Content:** `-`<br />
+Or
   * **Code:** 500<br />
   * **Content:** `-`
