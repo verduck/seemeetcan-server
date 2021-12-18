@@ -13,9 +13,9 @@ SeeMeetCan어플 전용 API 서버입니다.
 
 ## REST API
 
-*[인증](doc/auth.md)*
-*[사용자 목록](doc/profile_list.md)*
-*[내 정보 변경](doc/profile_edit.md)*
-*[사용자 정보](doc/profile.md)*
-*[좋아요](doc/favor.md)*
-*[채팅방 목록](doc/chatlist.md)*
+* [인증](doc/auth.md)
+* [사용자 목록](doc/profile_list.md)
+* [내 정보 변경](doc/profile_edit.md)
+* [사용자 정보](doc/profile.md)
+* [좋아요](doc/favor.md)
+* [채팅방 목록](doc/chatlist.md)
