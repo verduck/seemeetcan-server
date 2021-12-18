@@ -2,6 +2,9 @@
 
 SeeMeetCan어플 전용 API 서버입니다.
 
+## 기술스택
+`Go` `MySQL`
+
 ## 실행방법
 
 1. Go 설치 - https://go.dev/dl/
