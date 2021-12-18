@@ -15,6 +15,6 @@
 * **Error Response**
   * **Code:** 400<br />
   * **Content:** `-`
-  Or
+  <br /> Or
   * **Code:** 500<br />
   * **Content:** `-`
