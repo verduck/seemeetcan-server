@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"net/http"
 
-	"github.com/cwooder/handler"
+	"github.com/jeyog/seemeetcan-server/handler"
 	_ "github.com/go-sql-driver/mysql"
 )
 
