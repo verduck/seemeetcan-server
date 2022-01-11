@@ -1,4 +1,4 @@
-module github.com/jeyog/seemeetcan_server
+module github.com/jeyog/seemeetcan-server
 
 go 1.16
 
