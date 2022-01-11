@@ -1,4 +1,4 @@
-module github.com/cwooder
+module github.com/jeyog/seemeetcan_server
 
 go 1.16
 
